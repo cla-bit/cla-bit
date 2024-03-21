@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @cla-bit
-- 👀 I’m interested in computer programming languages most especially python.
+# 👋 Hi, I’m cla-bit 
+### 👀 A passionate Python | Backend | Software Developer from Nigeria.
 - 🌱 I’m currently learning python AI.
 - 💞️ I’m looking to collaborate on different projects and with different programmers.
 - 📫 How to reach me:
 Phone: +2348094929897
 email: doublep098@gmail.com
-
-<h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate Python | Backend | Software Developer from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cla-bit&label=Profile%20views&color=0e75b6&style=flat" alt="cla-bit" /> </p>
 
